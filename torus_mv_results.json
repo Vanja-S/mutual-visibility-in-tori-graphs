@@ -1,0 +1,10 @@
+{
+  "6": {
+    "dimension": 6,
+    "vertices": 36,
+    "edges": 72,
+    "max_mv_size": 7,
+    "search_limit": 18,
+    "timestamp": "2025-07-21T17:57:27.876058"
+  }
+}

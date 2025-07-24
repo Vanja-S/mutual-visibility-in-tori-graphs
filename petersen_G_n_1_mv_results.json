@@ -1,0 +1,232 @@
+{
+  "3": {
+    "n": 3,
+    "k": 1,
+    "vertices": 6,
+    "edges": 9,
+    "max_mv_size": 4,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_2",
+      "v_0"
+    ],
+    "mv_set_readable": "u_0, u_1, u_2, v_0",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:27:45.762665"
+  },
+  "4": {
+    "n": 4,
+    "k": 1,
+    "vertices": 8,
+    "edges": 12,
+    "max_mv_size": 5,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_2",
+      "v_0",
+      "v_2"
+    ],
+    "mv_set_readable": "u_0, u_1, u_2, v_0, v_2",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:27:45.763812"
+  },
+  "5": {
+    "n": 5,
+    "k": 1,
+    "vertices": 10,
+    "edges": 15,
+    "max_mv_size": 5,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_3",
+      "v_0",
+      "v_3"
+    ],
+    "mv_set_readable": "u_0, u_1, u_3, v_0, v_3",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:27:45.771513"
+  },
+  "6": {
+    "n": 6,
+    "k": 1,
+    "vertices": 12,
+    "edges": 18,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_2",
+      "u_4",
+      "v_0",
+      "v_2",
+      "v_4"
+    ],
+    "mv_set_readable": "u_0, u_2, u_4, v_0, v_2, v_4",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:27:45.811177"
+  },
+  "7": {
+    "n": 7,
+    "k": 1,
+    "vertices": 14,
+    "edges": 21,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_4",
+      "v_2",
+      "v_4",
+      "v_6"
+    ],
+    "mv_set_readable": "u_0, u_1, u_4, v_2, v_4, v_6",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:27:45.958061"
+  },
+  "8": {
+    "n": 8,
+    "k": 1,
+    "vertices": 16,
+    "edges": 24,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_4",
+      "v_2",
+      "v_4",
+      "v_6"
+    ],
+    "mv_set_readable": "u_0, u_1, u_4, v_2, v_4, v_6",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:27:46.497725"
+  },
+  "9": {
+    "n": 9,
+    "k": 1,
+    "vertices": 18,
+    "edges": 27,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_5",
+      "v_2",
+      "v_5",
+      "v_7"
+    ],
+    "mv_set_readable": "u_0, u_1, u_5, v_2, v_5, v_7",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:27:48.109024"
+  },
+  "10": {
+    "n": 10,
+    "k": 1,
+    "vertices": 20,
+    "edges": 30,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_5",
+      "v_2",
+      "v_5",
+      "v_7"
+    ],
+    "mv_set_readable": "u_0, u_1, u_5, v_2, v_5, v_7",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:27:52.608369"
+  },
+  "11": {
+    "n": 11,
+    "k": 1,
+    "vertices": 22,
+    "edges": 33,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_6",
+      "v_2",
+      "v_6",
+      "v_8"
+    ],
+    "mv_set_readable": "u_0, u_1, u_6, v_2, v_6, v_8",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:28:03.228852"
+  },
+  "12": {
+    "n": 12,
+    "k": 1,
+    "vertices": 24,
+    "edges": 36,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_6",
+      "v_2",
+      "v_6",
+      "v_8"
+    ],
+    "mv_set_readable": "u_0, u_1, u_6, v_2, v_6, v_8",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:28:27.485586"
+  },
+  "13": {
+    "n": 13,
+    "k": 1,
+    "vertices": 26,
+    "edges": 39,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_7",
+      "v_2",
+      "v_7",
+      "v_9"
+    ],
+    "mv_set_readable": "u_0, u_1, u_7, v_2, v_7, v_9",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:29:17.745543"
+  },
+  "14": {
+    "n": 14,
+    "k": 1,
+    "vertices": 28,
+    "edges": 42,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_7",
+      "v_2",
+      "v_7",
+      "v_9"
+    ],
+    "mv_set_readable": "u_0, u_1, u_7, v_2, v_7, v_9",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:30:57.654586"
+  },
+  "15": {
+    "n": 15,
+    "k": 1,
+    "vertices": 30,
+    "edges": 45,
+    "max_mv_size": 6,
+    "mv_set": [
+      "u_0",
+      "u_1",
+      "u_8",
+      "v_10",
+      "v_2",
+      "v_8"
+    ],
+    "mv_set_readable": "u_0, u_1, u_8, v_10, v_2, v_8",
+    "search_method": "random",
+    "timestamp": "2025-07-12T14:44:29.742356"
+  }
+}

@@ -1,2 +1,3 @@
-# mutual-visibility-in-tori-graphs
+# Mutual-Visibility In Tori Graphs
+
 Code supporting computational findings of a research paper
